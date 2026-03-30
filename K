@@ -1,0 +1,13 @@
+sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install --database mysql
+containerd.io_2.2.1-1~ubuntu.22.04~jammy_amd64(1).deb'
+ docker-buildx-plugin_0.31.1-1~ubuntu.22.04~jammy_amd64.deb
+ docker-ce_28.5.1-1~ubuntu.22.04~jammy_amd64.deb
+ docker-ce-cli_29.3.0-1~ubuntu.22.04~jammy_amd64.deb
+ docker-ce-rootless-extras_29.3.0-1~ubuntu.22.04~jammy_amd64.deb
+ docker-compose-plugin_5.1.0-1~ubuntu.22.04~jammy_amd64.deb
+containerd.io_2.2.1-1~ubuntu.22.04~jammy_amd64(1).deb'
+ docker-buildx-plugin_0.31.1-1~ubuntu.22.04~jammy_amd64.deb
+ docker-ce_28.5.1-1~ubuntu.22.04~jammy_amd64.deb
+ docker-ce-cli_29.3.0-1~ubuntu.22.04~jammy_amd64.deb
+ docker-ce-rootless-extras_29.3.0-1~ubuntu.22.04~jammy_amd64.deb
+ docker-compose-plugin_5.1.0-1~ubuntu.22.04~jammy_amd64.deb
